@@ -1,0 +1,10 @@
+html, body {
+	margin: 0;
+}
+.app {
+	padding: 15px;
+}
+.input {
+	display: block;
+	width: 100%;
+}
