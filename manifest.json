@@ -3,6 +3,7 @@
 
     "name": "URL to QR",
     "version": "1.0",
+	"description": "Simple tool for passing  a website URL from desktop to mobile device through QR-code",
 
     "icons": {
         "16": "icons/16x16.png",
