@@ -2,9 +2,18 @@ html, body {
 	margin: 0;
 }
 .app {
-	padding: 15px;
+	padding: 15px 15px 10px;
 }
 .input {
 	display: block;
+	box-sizing: border-box;
 	width: 100%;
+	padding: 7px;
+	border: 1px solid #bcbcbc;
+	margin-bottom: 10px;
+	transition: all .3s;
+}
+.input:focus {
+	box-shadow: 0 0 8px #88d4e9;
+    border: 1px solid #88d4e9;
 }
